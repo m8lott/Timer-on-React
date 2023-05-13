@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timer-on-React/static/css/main.9c4b380a.css",
+    "main.js": "/Timer-on-React/static/js/main.b393acc5.js",
+    "index.html": "/Timer-on-React/index.html",
+    "main.9c4b380a.css.map": "/Timer-on-React/static/css/main.9c4b380a.css.map",
+    "main.b393acc5.js.map": "/Timer-on-React/static/js/main.b393acc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c4b380a.css",
+    "static/js/main.b393acc5.js"
+  ]
+}
